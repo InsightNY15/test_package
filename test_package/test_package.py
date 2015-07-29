@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import numpy as np
 
 
 def foo(a, b):
@@ -11,9 +12,4 @@ def foo(a, b):
 
     """
 
-    """
-    dsal;
-    dflpd[
-    """
-
-    return a+b
+    return np.sum([a, b])
