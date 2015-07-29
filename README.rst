@@ -8,5 +8,4 @@ Test package for tools
 A package to tst some tools
 
 * Free software: BSD license
-* Documentation: https://test_package.readthedocs.org.
-
+* Documentation: http://insight-test-package.readthedocs.org.
