@@ -19,7 +19,8 @@ class TestTest_package(unittest.TestCase):
         pass
 
     def test_something(self):
-        pass
+        c = test_package.foo(4, 7)
+        assert c == 11
 
     def tearDown(self):
         pass
